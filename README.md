@@ -4,4 +4,6 @@ Parrot Mambo Minidrone Flight - Line following
 Line Follower function for Parrot Mambo Mini-Drone.
 The drone used edge detection calculated the nearest edge by detecting specific HSV values of the track.
 
-[![UAV Line Follower](http://img.youtube.com/vi/CwcGQfeLdEE/0.jpg)](http://www.youtube.com/watch?v=CwcGQfeLdEE)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=CwcGQfeLdEE
+" target="_blank"><img src="http://img.youtube.com/vi/CwcGQfeLdEE/0.jpg" 
+alt="UAV Line Follower" width="240" height="180" border="10" /></a>
